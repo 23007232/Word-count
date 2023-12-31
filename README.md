@@ -18,6 +18,7 @@ print the word count
 ### Step 6: 
 end the program
 ## PROGRAM:
+```
 #python programfor word count
 #developed by: pavithra p
 #reference number:23007232
@@ -25,10 +26,9 @@ test_string="python program in linear algebra"
 print("The orginal string is : ",test_string)
 result=len(test_string.split())
 print("The number of words in string are: ",str(result))
+```
 ### OUTPUT:
-## ![IMG_20231225_120553](https://github.com/23007232/Word-count/assets/139115574/7f13c0aa-da8c-4a4c-a203-699e799dcc5d)
-
-
+![image](https://github.com/23007232/Word-count/assets/139115574/d06e028c-62d8-4e59-b4b9-0fe260dbb594)
 
 ## RESULT:
 Thus the program is written to find the word count from a text.
